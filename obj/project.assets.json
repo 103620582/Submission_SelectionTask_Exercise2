@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joyambrose/Projects/Temp/Temp.csproj",
+      "projectUniqueName": "/Users/joyambrose/Projects/Exercise2_Selection/Temp.csproj",
       "projectName": "Temp",
-      "projectPath": "/Users/joyambrose/Projects/Temp/Temp.csproj",
+      "projectPath": "/Users/joyambrose/Projects/Exercise2_Selection/Temp.csproj",
       "packagesPath": "/Users/joyambrose/.nuget/packages/",
-      "outputPath": "/Users/joyambrose/Projects/Temp/obj/",
+      "outputPath": "/Users/joyambrose/Projects/Exercise2_Selection/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/joyambrose/.nuget/NuGet/NuGet.Config"
